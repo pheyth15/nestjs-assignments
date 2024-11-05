@@ -1,4 +1,4 @@
-## Assignment Number 2 - Prime Number Checker
+## Assignment Number 3 - Factorial Calculator
 >Note: Each assignment has its designated branch.
 
 ### Running the assignment:
@@ -6,13 +6,21 @@
 
 - Method: `Get`
 
-- Enter in your browser or Postman: `http://localhost:3000/assignments/prime/7`
+- Enter in your browser or Postman: `http://localhost:3000/assignments/factorial/5`
 
->"7" is just a sample number, you can put your desired number.
+>"5" is just a sample number, you can put your desired number.
 
 ### Expected Result:
 
 ```bash
 {
-   "isPrime": true
+  "factorial": 120
 }
+```
+<br><br>
+<div align="center">
+
+ © 2024 **Kevin Daniel Almirante**.
+
+</div>
+
