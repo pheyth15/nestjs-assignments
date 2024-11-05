@@ -1,20 +1,12 @@
-# Nest JS Assignments
-In compliance for IT ELECTIVE 4 | SYSTEMS INTEGRATION AND ARCHITECTURE 2(ITEC 116)
+## Assignment Number 1 - Fibonacci Sequence
+>Note: Each assignment has its designated branch.
 
-## Assignments Details:
-- assignment-1-fibonacci-sequence
-- assignment-2-prime-number
-- assignment-3-factorial-calculator
+### Running the assignment:
+- Type in the terminal: `npm run start` or `yarn start`
 
->Each assignment has its designated branch.
-
-## Usage:
-### Requires:
-- Node JS, NestJS, Browser/Postman
-
-Request
 - Method: `Get`
-- Path: example `http:localhost:9090/assignments/fibonacci/5`
 
->Note: Make sure that you run the nestjs server to make it work.
+- Enter in your browser or Postman: `http://localhost:3000/assignments/fibonacci/5`
+
+>"5" is just a sample number, you can put your desired number.
 
