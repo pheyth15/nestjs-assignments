@@ -16,3 +16,10 @@
 { 
   "sequence": [0, 1, 1, 2, 3] 
 }
+```
+<br><br>
+<div align="center">
+
+ © 2024 **Kevin Daniel Almirante**.
+
+</div>
