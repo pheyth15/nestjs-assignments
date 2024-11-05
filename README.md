@@ -16,3 +16,9 @@
 {
    "isPrime": true
 }
+<br><br>
+<div align="center">
+
+ © 2024 **Kevin Daniel Almirante**.
+
+</div>
