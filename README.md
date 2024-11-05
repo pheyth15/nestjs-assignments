@@ -10,3 +10,9 @@
 
 >"5" is just a sample number, you can put your desired number.
 
+### Expected Result:
+
+```bash
+{ 
+  "sequence": [0, 1, 1, 2, 3] 
+}
