@@ -14,13 +14,23 @@
 
 ```bash
 {
+<<<<<<< HEAD
   "factorial": 120
 }
 ```
+=======
+   "isPrime": true
+}
+```
+
+>>>>>>> 12c6a627c45d9cb17bd75da0c6b0a4d8c489b559
 <br><br>
 <div align="center">
 
  © 2024 **Kevin Daniel Almirante**.
 
 </div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 12c6a627c45d9cb17bd75da0c6b0a4d8c489b559
