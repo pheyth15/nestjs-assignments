@@ -1,4 +1,4 @@
-## Assignment Number 1 - Fibonacci Sequence
+## Assignment Number 2 - Prime Number Checker
 >Note: Each assignment has its designated branch.
 
 ### Running the assignment:
@@ -6,7 +6,13 @@
 
 - Method: `Get`
 
-- Enter in your browser or Postman: `http://localhost:3000/assignments/fibonacci/5`
+- Enter in your browser or Postman: `http://localhost:3000/assignments/prime/7`
 
->"5" is just a sample number, you can put your desired number.
+>"7" is just a sample number, you can put your desired number.
 
+### Expected Result:
+
+```bash
+{
+   "isPrime": true
+}
