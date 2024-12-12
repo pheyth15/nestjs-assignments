@@ -5,7 +5,8 @@ In compliance for IT ELECTIVE 4 | SYSTEMS INTEGRATION AND ARCHITECTURE 2(ITEC 11
 - assignment-1-fibonacci-sequence
 - assignment-2-prime-number
 - assignment-3-factorial-calculator
-
+  
+> [!NOTE]
 >Each assignment has its designated branch.
 
 ## Usage:
@@ -16,5 +17,6 @@ Request
 - Method: `Get`
 - Path: example `http:localhost:9090/assignments/fibonacci/5`
 
->Note: Make sure that you run the nestjs server to make it work.
+> [!IMPORTANT]
+>Make sure that you run the nestjs server to make it work.
 
